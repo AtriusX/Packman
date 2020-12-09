@@ -1,0 +1,8 @@
+name: Packman
+version: @version@
+main: io.atri.packman.Packman
+api-version: 1.16
+prefix: PM
+load: STARTUP
+authors: [ Atrius ]
+website: https://atrius.xyz
